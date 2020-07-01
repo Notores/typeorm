@@ -1,2 +1,2 @@
-# typeorm
-Typeorm module for use with Notores core 
+# @notores/typeorm
+Notores typeorm module
